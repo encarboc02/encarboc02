@@ -1,4 +1,4 @@
-![banner](Banner.png)
+![banner](banner_github.png)
 # Hi, I'm Enrique 👋  
 🧬 Biotechnologist & Bioinformatician  
 📊 Health Data Analytics | AI | Business Intelligence  
