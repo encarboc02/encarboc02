@@ -1,4 +1,4 @@
-![banner](banner linkedin.png)
+![banner](banner_linkedin.png)
 # Hi, I'm Enrique 👋  
 🧬 Biotechnologist & Bioinformatician  
 📊 Data Analytics | AI | Business Intelligence  
