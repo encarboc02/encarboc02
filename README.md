@@ -1,7 +1,7 @@
 ![banner](banner_github.png)
 # Hi, I'm Enrique 👋  
 🧬 Biotechnologist & Bioinformatician  
-📊 Health Data Analytics | AI | Business Intelligence  
+📊 Data Analytics | AI | Business Intelligence  
 💊 Interested in data-driven innovation in healthcare and pharma
 
 ## 🚀 About Me
