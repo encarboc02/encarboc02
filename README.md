@@ -11,7 +11,7 @@ I am a Biotechnologist and Bioinformatician with a strong interest in data-drive
 My work focuses on analyzing and structuring biomedical data using programming, data visualization and artificial intelligence to generate actionable insights.
 
 Currently pursuing an MBA in Pharmaceutical Industry while developing projects in:
-- Health Data Analytics
+- Data Analytics
 - Bioinformatics
 - Business Intelligence
 - AI applications in healthcare
